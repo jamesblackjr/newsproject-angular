@@ -1,0 +1,22 @@
+<div class="col-masonry">
+    <div class="panel">
+        <div class="panel-body bg-purple">
+            <h3 class="mv-lg">{{ article.title }}</h3>
+        </div>
+        <div class="panel-body">
+            <p id="description-wrapper" [innerHTML]="article.description"></p>
+            <p class="clearfix">
+                <span class="pull-left">
+                    <small class="mr-sm">{{ article.publication_date }}</small>
+                </span>
+                <span class="pull-right">
+                    <small>
+                        <span>
+                            <a href="{{ article.url }}" target="_blank" title="Read More">Read More</a>
+                        </span>
+                    </small>
+                </span>
+            </p>
+        </div>
+    </div>
+</div>

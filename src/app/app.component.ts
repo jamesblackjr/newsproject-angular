@@ -7,7 +7,7 @@ import {AppFooterComponent} from './app-footer.component';
 @Component({
   selector: 'app',
   directives: [AppHeaderComponent, AppSidebarComponent, AppContentComponent, AppFooterComponent],
-  templateUrl: './app/app.html'
+  templateUrl: 'partials/app.html'
 })
 
 export class AppComponent implements OnInit {

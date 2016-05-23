@@ -2,7 +2,7 @@ import {Component, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-sidebar',
-  templateUrl: './app/app-sidebar.html'
+  templateUrl: 'partials/app-sidebar.html'
 })
 
 export class AppSidebarComponent implements OnInit {
