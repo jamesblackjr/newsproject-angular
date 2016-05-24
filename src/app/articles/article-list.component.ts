@@ -16,7 +16,7 @@ export class ArticleListComponent implements OnInit {
     constructor(private articleService: ArticleService) {}
 
     getArticles() {
-        this.articleService.get().then(articles => {
+        this.articleService.getArticles().then(articles => {
             this.articles = articles;
         });
     }
