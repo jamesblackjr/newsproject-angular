@@ -1,4 +1,4 @@
-# The News Website Demo with AngularJS 2 UI Framework
+## The News Website Demo with AngularJS 2 UI Framework
 
 A basic AngularJS 2 application front-end for The News Website Demo Project.
 
