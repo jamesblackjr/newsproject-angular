@@ -5,13 +5,13 @@ import 'rxjs/add/operator/toPromise';
 
 @Injectable()
 export class ArticleService {
-    private articlesUrl = 'app/articles'; // URL to web api
+    private articlesUrl = 'http://jb-newsproject.herokuapp.com/api/news/articles/'; // URL to web api
 
     constructor(private http: Http) {}
 
     getArticles(): Promise<Article[]> {
         return this.http.get(this.articlesUrl).toPromise()
-            .then(response => response.json().data)
+            .then(response => response.json())
             .catch(this.handleError);
     }
 

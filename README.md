@@ -20,6 +20,7 @@ This project uses a number of open source projects to work properly:
 * [Lite-Server] - A lightweight *development only* node server.
 * [NPM] - Node Package Manager (NPM) is the package manager for JavaScript.
 * [Node.JS] - Node.js is a JavaScript runtime required to run this application.
+* [Angular2-In-Memory-Web-API] - An in-memory web api for demos and tests.
 
 ### Status
 
@@ -36,3 +37,4 @@ Work in progress.
     [Lite-Server]: <https://github.com/johnpapa/lite-server>
     [NPM]: <https://www.npmjs.com/>
     [Node.JS]: <https://nodejs.org/>
+    [Angular2-In-Memory-Web-API]: <https://github.com/wardbell/a2-in-memory-web-api>
