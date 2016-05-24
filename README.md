@@ -26,15 +26,15 @@ This project uses a number of open source projects to work properly:
 
 Work in progress.
 
-    [AngularJS]: <https://angular.io/>
-    [TypeScript]: <https://www.typescriptlang.org/>
-    [Gulp.JS]: <http://gulpjs.com/>
-    [SystemJS]: <https://github.com/systemjs/systemjs>
-    [ES6-Shim]: <https://github.com/paulmillr/es6-shim>
-    [RxJS]: <https://github.com/Reactive-Extensions/RxJS>
-    [Typings]: <https://github.com/typings/typings>
-    [TSLint]: <https://github.com/palantir/tslint>
-    [Lite-Server]: <https://github.com/johnpapa/lite-server>
-    [NPM]: <https://www.npmjs.com/>
-    [Node.JS]: <https://nodejs.org/>
-    [Angular2-In-Memory-Web-API]: <https://github.com/wardbell/a2-in-memory-web-api>
+[AngularJS]: <https://angular.io/>
+[TypeScript]: <https://www.typescriptlang.org/>
+[Gulp.JS]: <http://gulpjs.com/>
+[SystemJS]: <https://github.com/systemjs/systemjs>
+[ES6-Shim]: <https://github.com/paulmillr/es6-shim>
+[RxJS]: <https://github.com/Reactive-Extensions/RxJS>
+[Typings]: <https://github.com/typings/typings>
+[TSLint]: <https://github.com/palantir/tslint>
+[Lite-Server]: <https://github.com/johnpapa/lite-server>
+[NPM]: <https://www.npmjs.com/>
+[Node.JS]: <https://nodejs.org/>
+[Angular2-In-Memory-Web-API]: <https://github.com/wardbell/a2-in-memory-web-api>
