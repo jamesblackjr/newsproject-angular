@@ -2,7 +2,7 @@ import {Component} from '@angular/core';
 
 @Component({
     selector: 'article-item',
-    templateUrl: 'partials/article-item.html',
+    templateUrl: 'partials/articles/article-item.html',
     inputs: ['article']
 })
 

@@ -7,7 +7,7 @@ import {ArticleItemComponent} from './article-item.component';
     selector: 'article-list',
     directives: [ArticleItemComponent],
     providers: [ArticleService],
-    templateUrl: 'partials/article-list.html'
+    templateUrl: 'partials/articles/article-list.html'
 })
 
 export class ArticleListComponent implements OnInit {

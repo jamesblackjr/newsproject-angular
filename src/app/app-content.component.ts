@@ -1,9 +1,10 @@
 import {Component, OnInit} from '@angular/core';
-import {ArticleListComponent} from './article-list.component';
+import {ROUTER_DIRECTIVES} from '@angular/router';
+import {ArticleListComponent} from './articles/article-list.component';
 
 @Component({
   selector: 'app-content',
-  directives: [ArticleListComponent],
+  directives: [ROUTER_DIRECTIVES],
   templateUrl: 'partials/app-content.html'
 })
 
